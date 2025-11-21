@@ -1,0 +1,1 @@
+Spada Extended Version with Login + Reader + Admin Upload UI
